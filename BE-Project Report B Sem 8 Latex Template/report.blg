@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: IEEEtr.bst
+Database file #1: Biblio.bib
+Warning--I didn't find a database entry for "b"
+Warning--I didn't find a database entry for "c"
+Warning--I didn't find a database entry for "d"
+Warning--I didn't find a database entry for "e"
+Warning--I didn't find a database entry for "f"
+Warning--I didn't find a database entry for "g"
+Warning--I didn't find a database entry for "h"
+Warning--I didn't find a database entry for "i"
+Warning--I didn't find a database entry for "j"
+Too many commas in name 1 of "J.M. Bohli, N. Gruschka, M. Jensen, L.L. Iacono, N. Marnau" for entry a
+while executing---line 969 of file IEEEtr.bst
+Too many commas in name 1 of "J.M. Bohli, N. Gruschka, M. Jensen, L.L. Iacono, N. Marnau" for entry a
+while executing---line 969 of file IEEEtr.bst
+You've used 1 entry,
+            1876 wiz_defined-function locations,
+            491 strings with 3604 characters,
+and the built_in function-call counts, 254 in all, are:
+= -- 24
+> -- 4
+< -- 0
++ -- 2
+- -- 1
+* -- 17
+:= -- 44
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 13
+empty$ -- 26
+format.name$ -- 1
+if$ -- 61
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 6
+num.names$ -- 1
+pop$ -- 2
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 8
+stack$ -- 0
+substring$ -- 15
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 3
+width$ -- 2
+write$ -- 12
+(There were 2 error messages)
