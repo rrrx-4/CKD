@@ -1,0 +1,77 @@
+Chronic Kidney Disease Prediction
+
+Chronic kidney disease (CKD) is a prevalent medical issue that can lead to serious complications such as cardiovascular infection and end-stage renal disease. Early identification and treatment of CKD can help prevent these life-threatening conditions. However, predicting the risk factors for CKD is challenging. Machine learning techniques can be used to predict CKD status using clinical data, and this study proposes a workflow that includes data pre-processing, missing value handling, collaborative filtering, and attribute selection. The importance of incorporating domain knowledge in the prediction process is highlighted, along with practical considerations for data collection. Effective techniques for early prediction of CKD are crucial in addressing this growing medical problem.
+
+Chronic kidney disease, CKD, renal function, cardiovascular infection, end-stage renal disease, risk factors, machine learning, data pre-processing, missing value handling, collaborative filtering, attribute selection, domain knowledge, data collection, early prediction.
+
+The healthcare sector generates massive amounts of data that can be mined to uncover hidden information for successful prediction, diagnosis, and decision-making. Chronic kidney disease (CKD) has emerged as a significant health issue, particularly in India, where it is among the leading causes of death. CKD is characterized by a gradual decline in kidney function, which can lead to a range of complications such as high blood pressure, anemia, poor nutrition, and nerve damage. Early detection is critical to prevent adverse consequences, including heart and blood vessel problems. Machine learning approaches have shown promise in the prediction and diagnosis of various diseases, including CKD. This study aims to predict renal illness by analyzing data from several indices using three machine learning classification algorithms and selecting the approach with the highest accuracy rate. The primary care physicians (PCPs) play a crucial role in CKD management, and therefore, it is essential to have a reliable, practical, and automated CKD detection approach to assist them in their work.
+
+
+Literature survey
+
+Paper: "An Efficient Diagnosis of Chronic Kidney Disease Using Feature Selection and Data Mining Techniques" by Venkatachalapathy et al. (2018) presented in the International Conference on Inventive Computing and Informatics (ICICI).
+Proposed Methodology: The authors proposed a new hybrid method for diagnosing CKD using feature selection and data mining techniques. They used a combination of correlation-based feature selection (CFS) and principal component analysis (PCA) to select the relevant features. Then, they applied different classification algorithms such as K-Nearest Neighbors (KNN), Naive Bayes (NB), and Decision Tree (DT) to classify the data.
+
+Results: The proposed method achieved an accuracy of 97.46% with KNN, 96.92% with NB, and 95.38% with DT. The study also showed that the selected features improved the accuracy of the classifiers.
+
+Limitations: The dataset used in the study was limited to only 400 instances, which may not represent the entire population. Moreover, the proposed method was not compared with other state-of-the-art methods for CKD diagnosis.
+
+Paper: "Early Diagnosis of Chronic Kidney Disease Using Machine Learning Algorithms" by Lin et al. (2019) published in the Journal of Medical Systems.
+Proposed Methodology: The authors proposed a machine learning-based method for early diagnosis of CKD using different algorithms such as Logistic Regression (LR), Random Forest (RF), and KNN. They also used a genetic algorithm (GA) to select the most relevant features from the dataset.
+
+Results: The proposed method achieved an accuracy of 99.36% with RF, 98.92% with LR, and 98.36% with KNN. The study also showed that the selected features using GA improved the performance of the classifiers.
+
+Limitations: The study was limited to a specific dataset from a Chinese hospital, which may not generalize to other populations. Moreover, the study did not consider the cost and feasibility of the proposed method for real-world applications.
+
+Paper: "A Comparative Study of Machine Learning Techniques for Diagnosis of Chronic Kidney Disease" by Hasan et al. (2020) presented in the International Conference on Computer and Information Science (ICCIS).
+Proposed Methodology: The authors compared different machine learning algorithms such as Decision Tree (DT), KNN, and SVM for the diagnosis of CKD. They also used the feature selection method based on the chi-square test to select the relevant features from the dataset.
+
+Results: The study showed that the SVM algorithm achieved the highest accuracy of 96.8%, followed by KNN with an accuracy of 96.5% and DT with an accuracy of 94.5%.
+
+Limitations: The dataset used in the study was limited to only 200 instances, which may not represent the entire population. Moreover, the study did not consider the interpretability and explainability of the proposed models.
+
+Paper: "Chronic Kidney Disease Diagnosis Using Deep Convolutional Neural Networks" by Sathya and Jawahar (2021) published in the Journal of Ambient Intelligence and Humanized Computing.
+Proposed Methodology: The authors proposed a deep learning-based method for CKD diagnosis using convolutional neural networks (CNNs). They used a transfer learning approach with pre-trained models such as VGG16, ResNet50, and InceptionV3 to extract features from the medical images.
+
+Results: The proposed method achieved an accuracy of 95.22% with VGG16, 93.67% with ResNet50, and 92.45% with InceptionV
+
+
+Title: "Early Detection of Chronic Kidney Disease Using Machine Learning Techniques" (2018)
+Conference: International Conference on Emerging Trends in Engineering, Science and Technology
+Proposed methodology: The study used various machine learning techniques such as Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), and k-Nearest Neighbor (k-NN) to classify patients as either CKD positive or negative based on their health records.
+Results: The SVM model outperformed other models with an accuracy of 96.5%, sensitivity of 95.8%, and specificity of 97.2%.
+Limitations: The dataset used was limited to only 250 samples which may not be sufficient to generalize to a larger population.
+
+Title: "Prediction of Chronic Kidney Disease using Machine Learning Approaches: A Comparative Study" (2019)
+Conference: International Conference on Machine Intelligence and Signal Processing
+Proposed methodology: The study compared the performance of various machine learning algorithms such as Naive Bayes, k-NN, SVM, Decision Tree, Random Forest, and Gradient Boosting on a dataset containing clinical and laboratory features of CKD patients.
+Results: The Random Forest algorithm performed the best with an accuracy of 97.3% and area under the curve (AUC) of 0.996.
+Limitations: The study did not consider the impact of external factors such as lifestyle and environmental factors on the development of CKD.
+
+Title: "A Machine Learning Approach for Early Prediction of Chronic Kidney Disease" (2020)
+Conference: International Conference on Innovative Computing and Communication
+Proposed methodology: The study used machine learning algorithms such as Naive Bayes, Decision Tree, Random Forest, and SVM to predict the likelihood of developing CKD based on demographic, clinical, and laboratory data.
+Results: The Random Forest model achieved the highest accuracy of 96.55%, sensitivity of 95.83%, and specificity of 97.22%.
+Limitations: The dataset used in the study was relatively small and only included patients from a single healthcare center.
+
+Title: "Predicting the Risk of Chronic Kidney Disease using Machine Learning Techniques" (2021)
+Conference: International Conference on Intelligent Computing and Communication
+Proposed methodology: The study used various machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, SVM, and Naive Bayes to classify patients as either CKD positive or negative based on their medical history and laboratory results.
+Results: The Random Forest algorithm performed the best with an accuracy of 95.56%, sensitivity of 95.68%, and specificity of 95.44%.
+Limitations: The study only included patients from a single hospital and did not take into account factors such as lifestyle and environmental factors that may contribute to the development of CKD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
